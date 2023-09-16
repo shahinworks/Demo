@@ -32,7 +32,7 @@ function Work() {
   }, []);
 
   return (<>
-    <h1>List of Products </h1>
+    <h1>List of Products</h1>
     
     <TableContainer component={Paper}>
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
